@@ -1,0 +1,141 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+
+    background-color: antiquewhite;
+
+}
+
+.container{
+
+max-width: 1000px;
+background-color: honeydew;
+margin: 0 auto;
+padding: 20px;
+
+}
+
+.profile-image{
+width: 120px;
+height: 120px;
+border: 3px solid white;
+border-radius: 50%;
+float: left;
+
+} 
+
+.my-name{
+float: left;
+padding: 30px;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    color: teal;
+}
+
+.my-contact{
+    float: right;
+    padding: 30px;
+
+
+}
+.my-contact a{
+    text-decoration: none;
+    color: teal;
+    
+
+}
+
+.my-contact a:hover{
+    text-decoration: underline;
+    color: darkkhaki;
+
+    
+}
+
+.div_clear{
+
+    clear: both;
+}
+
+hr{
+
+    border: solid teal 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+/*
+Personal section
+*/
+
+#personal_section{
+
+
+
+}
+
+.content{
+
+
+}
+
+.left_div{
+    width: 30%;
+    float: left;
+
+
+}
+
+.right_div{
+
+    width: 70%;
+    float: right;
+    text-align: justify;
+
+
+
+}
+
+.common_hr{
+    border: solid teal 2px;
+    border-bottom: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    
+
+
+
+
+}
+.botom-container{
+    background-color: brown;
+    text-align: center;
+    margin-top: 40px;
+    padding: 50px;
+
+
+
+}
+
+.botom-container a{
+    text-decoration: none;
+    color: wheat;
+    
+}
+
+.botom-container p{
+    text-decoration: none;
+    color: wheat;
+    
+}
+
